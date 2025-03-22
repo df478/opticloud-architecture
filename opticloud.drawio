@@ -181,6 +181,12 @@
         <mxCell id="bqyXscXug7svV3AP164O-77" value="Fine Tuning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1310" y="-580" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bqyXscXug7svV3AP164O-80" value="Speech To Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="626.03" y="-413" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bqyXscXug7svV3AP164O-81" value="Text To Speech" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="642.05" y="-646" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
